@@ -14,4 +14,6 @@ Tran Van Nhi: Student1316199
 
 Ly Duc Hao: Student1313751
 
+Nguyen Tran Thanh Liem : Student1313751
+
 website published at https://chulinhchi6626.github.io/project_g6/
